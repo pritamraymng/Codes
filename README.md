@@ -21,6 +21,6 @@ Details of the codes are listed as below:
 
 5.  The color feature were extracted by a python code and saved in a '.csv' file format. File name: "color.ipynb"
 
-6.  The texture features were extracted by a python code and saved in a '.csv' file format. File name: "texture.csv"
+6.  The texture features were extracted by a python code and saved in a '.csv' file format. File name: "texture.ipynb"
 
-7.  The entire noise removal process of the entire dataset was done by a python code. File name: "final_on_full_data.csv"
+7.  The entire noise removal process of the entire dataset was done by a python code. File name: "final_on_full_data.ipynb"
