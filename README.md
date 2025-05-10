@@ -9,5 +9,10 @@
 
 (d) Texture Features File                           : https://drive.google.com/drive/folders/1TpaGRqVTySuPr_KVA2am6QDc6nSGS-fw?usp=sharing
 
-1. Tha pre-trained ResNet-50 model was combined with handcrafted features. The highest validation accuracy was found by running 20 sweeps of hyperparameters. File name: "resnet_handcode.ipynb"
+1. The pre-trained ResNet-50 model was combined 'with' handcrafted features. The highest validation accuracy was found by running 20 sweeps of hyperparameters. File name: "resnet_handcode.ipynb"
 2. With the best hyperparameters on the validation set, now the code is run on the test set. File name: "test1_handcode.ipynb"
+3.  The pre-trained ResNet-50 model was combined 'without' handcrafted features. The highest validation accuracy was found by running 20 sweeps of hyperparameters. File name: "without_handcode.ipynb"
+4.  With the best hyperparameters on the validation set, now the code is run on the test set. File name: "test_without_hand.ipynb"
+5.  The color feature were extracted by a python code and saved in a '.csv' file format. File name: "color.ipynb"
+6.  The texture features were extracted by a python code and saved in a '.csv' file format. File name: "texture.csv"
+7.  The entire noise removal process of the entire dataset was done by a python code. File name: "final_on_full_data.csv"
