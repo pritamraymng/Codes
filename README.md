@@ -15,9 +15,9 @@ Details of the codes are listed as below:
 
 2. With the best hyperparameters on the validation set, now the code is run on the test set. File name: "test1_handcode.ipynb"
 
-3.  The pre-trained ResNet-50 model was combined 'without' handcrafted features. The highest validation accuracy was found by running 20 sweeps of hyperparameters. File name: "without_handcode.ipynb"
+3.  The pre-trained ResNet-50 model was combined 'without' handcrafted features. The highest validation accuracy was found by running 20 sweeps of hyperparameters. File name: "without_handcode.ipynb". The runs in wandb can be seen here: https://wandb.ai/ma23m018-indian-institute-of-technology-madras/mtech_project_wh1?nw=nwuserma23m018
 
-4.  With the best hyperparameters on the validation set, now the code is run on the test set. File name: "test_without_hand.ipynb"
+4.  With the best hyperparameters on the validation set, now the code is run on the test set. File name: "test_without_hand.ipynb". The runs in wandb can be seen here: https://wandb.ai/ma23m018-indian-institute-of-technology-madras/mtech_project_wh1test_new?nw=nwuserma23m018
 
 5.  The color feature were extracted by a python code and saved in a '.csv' file format. File name: "color.ipynb"
 
