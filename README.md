@@ -1,7 +1,8 @@
 # Description of project 
 
 
-(a) Dataset used here can be found here             : https://www.kaggle.com/datasets/ismailpromus/skin-diseases-image-dataset                                
+(a) Dataset used here can be found here             : https://www.kaggle.com/datasets/ismailpromus/skin-diseases-image-dataset  
+
 (b) Noise Removed (Cleaned) Images can be found here: https://drive.google.com/drive/folders/1TpaGRqVTySuPr_KVA2am6QDc6nSGS-fw?usp=sharing
 
 (c) Color Features file                             : https://drive.google.com/drive/folders/1TpaGRqVTySuPr_KVA2am6QDc6nSGS-fw?usp=sharing
