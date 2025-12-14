@@ -13,7 +13,7 @@ Details of the codes and visualisation links in Wandb are listed as below:
 
 1. The pre-trained ResNet-50 model was combined 'with' handcrafted features. The highest validation accuracy was found by running 20 sweeps of hyperparameters. File name: "resnet_handcode.ipynb". The runs in wandb can be seen here: https://wandb.ai/ma23m018-indian-institute-of-technology-madras/mtech_project2?nw=nwuserma23m018
 
-2. With the best hyperparameters on the validation set, now the code is run on the test set. File name: "test1_handcode.ipynb". The runs in wandb can be seen from here: https://wandb.ai/ma23m018-indian-institute-of-technology-madras/mtech_project1_test2?nw=nwuserma23m018
+2. With the best hyperparameters on the validation set, now the code is run on the test set(With Handcrafted features). File name: "test1_handcode.ipynb". The runs in wandb can be seen from here: https://wandb.ai/ma23m018-indian-institute-of-technology-madras/mtech_project1_test2?nw=nwuserma23m018
 
 3.  The pre-trained ResNet-50 model was combined 'without' handcrafted features. The highest validation accuracy was found by running 20 sweeps of hyperparameters. File name: "without_handcode.ipynb". The runs in wandb can be seen here: https://wandb.ai/ma23m018-indian-institute-of-technology-madras/mtech_project_wh1?nw=nwuserma23m018
 
