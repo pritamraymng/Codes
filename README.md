@@ -9,7 +9,7 @@
 
 (d) Texture Features File                           : https://drive.google.com/drive/folders/1TpaGRqVTySuPr_KVA2am6QDc6nSGS-fw?usp=sharing
 
-Details of the codes are listed as below:
+Details of the codes and visualisation links in Wandb are listed as below:
 
 1. The pre-trained ResNet-50 model was combined 'with' handcrafted features. The highest validation accuracy was found by running 20 sweeps of hyperparameters. File name: "resnet_handcode.ipynb". The runs in wandb can be seen here: https://wandb.ai/ma23m018-indian-institute-of-technology-madras/mtech_project2?nw=nwuserma23m018
 
